@@ -1,0 +1,27 @@
+# Unreal generated data and editor/session state
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.vscode/
+/*.sln
+/*.suo
+/*.VC.db
+/*.VC.VC.opendb
+
+# Rebuildable plugin artifacts; retain runtime/editor DLLs and module descriptors
+/Plugins/**/Intermediate/
+/Plugins/**/*.pdb
+
+# Local tooling state and credentials
+**/__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,306 @@
+{
+  "project": "E:\\BaiduNetdiskDownload\\P_VFX\\P_VFX.uproject",
+  "engine": "5.8.3-58210709+++UE5+Release-5.8",
+  "level": "/Game/VFXMeshTools_Test/UE58_02/Map_VFXMeshTools_Test",
+  "status": "passed",
+  "checks": [
+    "New dedicated test level path",
+    "Create dedicated test level",
+    "Create material M_Test_Spline",
+    "Save material M_Test_Spline",
+    "Create material M_Test_Helix",
+    "Save material M_Test_Helix",
+    "Create material M_Test_Custom",
+    "Save material M_Test_Custom",
+    "Create material M_Test_Fracture",
+    "Save material M_Test_Fracture",
+    "Create material M_Test_GroundSpikes",
+    "Save material M_Test_GroundSpikes",
+    "Create material M_Test_Floor",
+    "Save material M_Test_Floor",
+    "Eight ground spikes in project",
+    "Growth starts hidden",
+    "Growth finishes fully grown",
+    "Two fracture pieces in project",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Visible generated mesh 01_样条线_双路径",
+    "Visible generated mesh 02_螺旋模型",
+    "Visible generated mesh 03_自定义_起伏和不规则边缘",
+    "Visible generated mesh 04_破碎_两个碎片",
+    "Visible generated mesh 05_地刺_循环生长",
+    "Save test level",
+    "Reload saved test level",
+    "Five native tool actors survive level reload",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Nonempty triangle mesh",
+    "Mesh index range",
+    "Finite mesh vertices",
+    "Generated meshes survive level reload 01_样条线_双路径",
+    "Generated meshes survive level reload 02_螺旋模型",
+    "Generated meshes survive level reload 03_自定义_起伏和不规则边缘",
+    "Generated meshes survive level reload 04_破碎_两个碎片",
+    "Generated meshes survive level reload 05_地刺_循环生长",
+    "Loop growth setting survives reload"
+  ],
+  "before_save": [
+    {
+      "label": "01_样条线_双路径",
+      "mode": "<VFXMeshToolMode.SPLINE: 0>",
+      "piece_count": 0,
+      "main": {
+        "vertices": 2592,
+        "triangles": 864
+      },
+      "pieces": []
+    },
+    {
+      "label": "02_螺旋模型",
+      "mode": "<VFXMeshToolMode.HELIX: 1>",
+      "piece_count": 0,
+      "main": {
+        "vertices": 2304,
+        "triangles": 768
+      },
+      "pieces": []
+    },
+    {
+      "label": "03_自定义_起伏和不规则边缘",
+      "mode": "<VFXMeshToolMode.CUSTOM: 2>",
+      "piece_count": 0,
+      "main": {
+        "vertices": 1824,
+        "triangles": 608
+      },
+      "pieces": []
+    },
+    {
+      "label": "04_破碎_两个碎片",
+      "mode": "<VFXMeshToolMode.FRACTURE: 3>",
+      "piece_count": 2,
+      "main": {
+        "vertices": 0,
+        "triangles": 0
+      },
+      "pieces": [
+        {
+          "vertices": 24,
+          "triangles": 8
+        },
+        {
+          "vertices": 24,
+          "triangles": 8
+        }
+      ]
+    },
+    {
+      "label": "05_地刺_循环生长",
+      "mode": "<VFXMeshToolMode.GROUND_SPIKES: 4>",
+      "piece_count": 8,
+      "main": {
+        "vertices": 0,
+        "triangles": 0
+      },
+      "pieces": [
+        {
+          "vertices": 72,
+          "triangles": 24
+        },
+        {
+          "vertices": 36,
+          "triangles": 12
+        },
+        {
+          "vertices": 48,
+          "triangles": 16
+        },
+        {
+          "vertices": 48,
+          "triangles": 16
+        },
+        {
+          "vertices": 72,
+          "triangles": 24
+        },
+        {
+          "vertices": 72,
+          "triangles": 24
+        },
+        {
+          "vertices": 48,
+          "triangles": 16
+        },
+        {
+          "vertices": 72,
+          "triangles": 24
+        }
+      ]
+    }
+  ],
+  "after_reload": [
+    {
+      "label": "01_样条线_双路径",
+      "mode": "<VFXMeshToolMode.SPLINE: 0>",
+      "piece_count": 0,
+      "main": {
+        "vertices": 2592,
+        "triangles": 864
+      },
+      "pieces": []
+    },
+    {
+      "label": "02_螺旋模型",
+      "mode": "<VFXMeshToolMode.HELIX: 1>",
+      "piece_count": 0,
+      "main": {
+        "vertices": 2304,
+        "triangles": 768
+      },
+      "pieces": []
+    },
+    {
+      "label": "03_自定义_起伏和不规则边缘",
+      "mode": "<VFXMeshToolMode.CUSTOM: 2>",
+      "piece_count": 0,
+      "main": {
+        "vertices": 1824,
+        "triangles": 608
+      },
+      "pieces": []
+    },
+    {
+      "label": "04_破碎_两个碎片",
+      "mode": "<VFXMeshToolMode.FRACTURE: 3>",
+      "piece_count": 2,
+      "main": {
+        "vertices": 0,
+        "triangles": 0
+      },
+      "pieces": [
+        {
+          "vertices": 24,
+          "triangles": 8
+        },
+        {
+          "vertices": 24,
+          "triangles": 8
+        }
+      ]
+    },
+    {
+      "label": "05_地刺_循环生长",
+      "mode": "<VFXMeshToolMode.GROUND_SPIKES: 4>",
+      "piece_count": 8,
+      "main": {
+        "vertices": 0,
+        "triangles": 0
+      },
+      "pieces": [
+        {
+          "vertices": 72,
+          "triangles": 24
+        },
+        {
+          "vertices": 36,
+          "triangles": 12
+        },
+        {
+          "vertices": 48,
+          "triangles": 16
+        },
+        {
+          "vertices": 48,
+          "triangles": 16
+        },
+        {
+          "vertices": 72,
+          "triangles": 24
+        },
+        {
+          "vertices": 72,
+          "triangles": 24
+        },
+        {
+          "vertices": 48,
+          "triangles": 16
+        },
+        {
+          "vertices": 72,
+          "triangles": 24
+        }
+      ]
+    }
+  ]
+}

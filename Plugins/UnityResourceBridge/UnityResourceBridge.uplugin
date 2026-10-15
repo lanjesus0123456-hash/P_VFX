@@ -1,0 +1,27 @@
+{
+  "FileVersion": 3,
+  "Version": 2,
+  "VersionName": "0.2.0",
+  "FriendlyName": "Unity Resource Bridge",
+  "Description": "Import exported Unity reference resources into UE.",
+  "Category": "Editor",
+  "CanContainContent": true,
+  "EnabledByDefault": true,
+  "Plugins": [
+    {
+      "Name": "PythonScriptPlugin",
+      "Enabled": true
+    },
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true
+    }
+  ],
+  "Modules": [
+    {
+      "Name": "VFXMaterialControls",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit"
+    }
+  ]
+}

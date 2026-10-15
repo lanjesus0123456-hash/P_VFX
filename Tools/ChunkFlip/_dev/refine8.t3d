@@ -1,0 +1,267 @@
+﻿Begin Object Class=/Script/Engine.MaterialFunction Name="Guiyue_MF_Refine" ExportPath="/Script/Engine.MaterialFunction'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine'"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_3" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionVectorParameter_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_4" ExportPath="/Script/Engine.MaterialExpressionPower'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionPower_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_0" ExportPath="/Script/Engine.MaterialExpressionPower'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionPower_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_82" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_82'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_81" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_81'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_24" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_24'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionOutput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionOutput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionInput_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionInput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionInput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant4Vector Name="MaterialExpressionConstant4Vector_0" ExportPath="/Script/Engine.MaterialExpressionConstant4Vector'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionConstant4Vector_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_28" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionComment_28'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_27" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionComment_27'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_124" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionComment_124'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialFunctionEditorOnlyData Name="Guiyue_MF_RefineEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:Guiyue_MF_RefineEditorOnlyData'"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_3" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionVectorParameter_3'"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=0.500000)
+      ChannelNames=(R=NSLOCTEXT("", "FE6132694A1FF7F160C2188D5E625950", "_Power"),G=NSLOCTEXT("", "1653E2BE468FC9A6A0DAF593E6F711D3", "_HDR Intensity"),B=NSLOCTEXT("", "94A0637A43EA56377F9419B7CDB229DC", "_Soft HDR Intensity"),A=NSLOCTEXT("", "E5A491B24C9935843ED755920855266E", "_Lerp Intensity"))
+      ParameterName="Refine 控制----------(主贴图"
+      ExpressionGUID=E9AD8DC348484C5128E7129BE4E36626
+      Group="A 主贴图"
+      SortPriority=41
+      MaterialExpressionEditorX=-1456
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=75487FCA4F3002A1B3521D970249A808
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+      Desc="Power_去除纹理虚面  HDR Intensity_去除虚面后的HDR强度  Soft HDR Intensity_虚面强度  Lerp Intensity_虚实面互占比例 推荐0.5"
+      bCommentBubbleVisible=True
+      Outputs(0)=(OutputName="")
+      Outputs(1)=(OutputName="_Power")
+      Outputs(2)=(OutputName="_HDR Intensity")
+      Outputs(3)=(OutputName="_Soft HDR Intensity")
+      Outputs(4)=(OutputName="_Lerp Intensity")
+      Outputs.RemoveIndex(5)
+   End Object
+   Begin Object Name="MaterialExpressionPower_4" ExportPath="/Script/Engine.MaterialExpressionPower'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionPower_4'"
+      Base=(Expression="/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_1'")
+      Exponent=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_0'")
+      MaterialExpressionEditorX=-432
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=5F795FFC474D6069216EEFA72B3437FF
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionPower_0" ExportPath="/Script/Engine.MaterialExpressionPower'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionPower_0'"
+      Base=(Expression="/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_2'")
+      Exponent=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_1'")
+      MaterialExpressionEditorX=-432
+      MaterialExpressionEditorY=656
+      MaterialExpressionGuid=5F795FFC474D6069216EEFA72B3437FF
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_82" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_82'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_0'",OutputIndex=2)
+      MaterialExpressionEditorX=-176
+      MaterialExpressionEditorY=272
+      MaterialExpressionGuid=35864CE849A858FDFDB0948B8DF1EF20
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_81" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_81'"
+      A=(Expression="/Script/Engine.MaterialExpressionPower'Guiyue_MF_Refine:MaterialExpressionPower_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_0'",OutputIndex=1)
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=FD88168547461E2ECDC2CCB500FE3A4B
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_1'",OutputIndex=2)
+      MaterialExpressionEditorX=-128
+      MaterialExpressionEditorY=816
+      MaterialExpressionGuid=35864CE849A858FDFDB0948B8DF1EF20
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMultiply_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionPower'Guiyue_MF_Refine:MaterialExpressionPower_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_1'",OutputIndex=1)
+      MaterialExpressionEditorX=-224
+      MaterialExpressionEditorY=656
+      MaterialExpressionGuid=FD88168547461E2ECDC2CCB500FE3A4B
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_1'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.BreakOutFloat4Components'"
+      FunctionInputs(0)=(ExpressionInputId=0FC5C56B4335798F20CB928CF1C87421,Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_0'",InputName="Float4"))
+      FunctionOutputs(0)=(ExpressionOutputId=6BC893C247FCFC567178CE944E213385,Output=(OutputName="R"))
+      FunctionOutputs(1)=(ExpressionOutputId=9720C81E449DF8E5514FCB8A80FD5FA3,Output=(OutputName="G"))
+      FunctionOutputs(2)=(ExpressionOutputId=17CE6E2C4E70841B48F3D1B73828AA03,Output=(OutputName="B"))
+      FunctionOutputs(3)=(ExpressionOutputId=7E5140D94EE3BA89C55CD5ACDFA04604,Output=(OutputName="A"))
+      MaterialExpressionEditorX=-720
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=E32A5EE2471AE353B857998DFF41C55D
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+      Outputs(0)=(OutputName="R")
+      Outputs(1)=(OutputName="G")
+      Outputs(2)=(OutputName="B")
+      Outputs(3)=(OutputName="A")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_0'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.BreakOutFloat4Components'"
+      FunctionInputs(0)=(ExpressionInputId=0FC5C56B4335798F20CB928CF1C87421,Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_0'",InputName="Float4"))
+      FunctionOutputs(0)=(ExpressionOutputId=6BC893C247FCFC567178CE944E213385,Output=(OutputName="R"))
+      FunctionOutputs(1)=(ExpressionOutputId=9720C81E449DF8E5514FCB8A80FD5FA3,Output=(OutputName="G"))
+      FunctionOutputs(2)=(ExpressionOutputId=17CE6E2C4E70841B48F3D1B73828AA03,Output=(OutputName="B"))
+      FunctionOutputs(3)=(ExpressionOutputId=7E5140D94EE3BA89C55CD5ACDFA04604,Output=(OutputName="A"))
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=E32A5EE2471AE353B857998DFF41C55D
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+      Outputs(0)=(OutputName="R")
+      Outputs(1)=(OutputName="G")
+      Outputs(2)=(OutputName="B")
+      Outputs(3)=(OutputName="A")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_24" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_24'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_81'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_82'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_0'",OutputIndex=3)
+      MaterialExpressionEditorX=64
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=12A568F84A049D026D3BF99F93AD495D
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_1'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_1'",OutputIndex=3)
+      MaterialExpressionEditorX=64
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=12A568F84A049D026D3BF99F93AD495D
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionOutput_1'"
+      OutputName="通道"
+      SortPriority=10
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_0'")
+      bLastPreviewed=True
+      Id=0ABC6A5644E6311B6CDE019F177FE646
+      MaterialExpressionEditorX=208
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=62921BFA4D852DDE777943814E972D5C
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionOutput_0'"
+      OutputName="颜色"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_24'")
+      bLastPreviewed=True
+      Id=0671B2584E5B6D6B6511008CD9B801AB
+      MaterialExpressionEditorX=200
+      MaterialExpressionEditorY=300
+      MaterialExpressionGuid=62921BFA4D852DDE777943814E972D5C
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionInput_2'"
+      Preview=(Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="通道"
+      Id=2E208A6E4C0B24707E19B0AA68C7831B
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=1.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      SortPriority=10
+      MaterialExpressionEditorX=-752
+      MaterialExpressionEditorY=816
+      MaterialExpressionGuid=010A4CB5444DE7B73E5C5C957740A5DE
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionInput_1'"
+      Preview=(Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="颜色"
+      Id=9B74968942784E4FB8BDB09DFCDA5B93
+      PreviewValue=(X=1.000000,Y=1.000000,Z=1.000000,W=1.000000)
+      MaterialExpressionEditorX=-800
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=010A4CB5444DE7B73E5C5C957740A5DE
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionFunctionInput_0'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant4Vector'Guiyue_MF_Refine:MaterialExpressionConstant4Vector_0'")
+      InputName="数值输入"
+      Id=1C8E5FAC4BF4D147E8EB7EBFB6F13584
+      InputType=FunctionInput_Vector4
+      SortPriority=20
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=010A4CB5444DE7B73E5C5C957740A5DE
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant4Vector_0" ExportPath="/Script/Engine.MaterialExpressionConstant4Vector'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionConstant4Vector_0'"
+      Constant=(R=1.000000,G=1.000000,B=1.000000,A=0.500000)
+      MaterialExpressionEditorX=-1176
+      MaterialExpressionEditorY=411
+      MaterialExpressionGuid=B57B51CE499418620F73EC896D3FA545
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_28" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionComment_28'"
+      SizeX=912
+      SizeY=48
+      Text="Bug反馈或材质交流：QQ群580410956"
+      CommentColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=352
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=C0DFB5A246A02F1BAF7E5AB4DB749550
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_27" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionComment_27'"
+      SizeX=912
+      SizeY=48
+      Text="使用教程：https://space.bilibili.com/2541455"
+      CommentColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=352
+      MaterialExpressionEditorY=368
+      MaterialExpressionGuid=C0DFB5A246A02F1BAF7E5AB4DB749550
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_124" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:MaterialExpressionComment_124'"
+      SizeX=912
+      SizeY=48
+      Text="归玥材质包：归玥MF_Refine"
+      CommentColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=352
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=C0DFB5A246A02F1BAF7E5AB4DB749550
+      Function="/Script/Engine.MaterialFunction'Guiyue_MF_Refine'"
+   End Object
+   Begin Object Name="Guiyue_MF_RefineEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/归玥材质包LTS/07_MF/Guiyue_MF_Refine.Guiyue_MF_Refine:Guiyue_MF_RefineEditorOnlyData'"
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'Guiyue_MF_Refine:MaterialExpressionFunctionOutput_0'","/Script/Engine.MaterialExpressionPower'Guiyue_MF_Refine:MaterialExpressionPower_4'","/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_81'","/Script/Engine.MaterialExpressionLinearInterpolate'Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_24'","/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_82'","/Script/Engine.MaterialExpressionVectorParameter'Guiyue_MF_Refine:MaterialExpressionVectorParameter_3'","/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionFunctionInput'Guiyue_MF_Refine:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionFunctionOutput'Guiyue_MF_Refine:MaterialExpressionFunctionOutput_1'","/Script/Engine.MaterialExpressionPower'Guiyue_MF_Refine:MaterialExpressionPower_0'","/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionLinearInterpolate'Guiyue_MF_Refine:MaterialExpressionLinearInterpolate_0'","/Script/Engine.MaterialExpressionMultiply'Guiyue_MF_Refine:MaterialExpressionMultiply_1'","/Script/Engine.MaterialExpressionMaterialFunctionCall'Guiyue_MF_Refine:MaterialExpressionMaterialFunctionCall_1'","/Script/Engine.MaterialExpressionConstant4Vector'Guiyue_MF_Refine:MaterialExpressionConstant4Vector_0'"),EditorComments=("/Script/Engine.MaterialExpressionComment'Guiyue_MF_Refine:MaterialExpressionComment_27'","/Script/Engine.MaterialExpressionComment'Guiyue_MF_Refine:MaterialExpressionComment_28'","/Script/Engine.MaterialExpressionComment'Guiyue_MF_Refine:MaterialExpressionComment_124'"))
+   End Object
+   DependentFunctionExpressionCandidates(0)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_0'"
+   DependentFunctionExpressionCandidates(1)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_1'"
+   EditorOnlyData="/Script/Engine.MaterialFunctionEditorOnlyData'Guiyue_MF_RefineEditorOnlyData'"
+   StateId=0F7E35AD42BD78743073E1836C21B78A
+   CombinedInputTypes=15
+   CombinedOutputTypes=15
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+End Object

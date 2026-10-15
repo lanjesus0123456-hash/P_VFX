@@ -1,0 +1,44 @@
+﻿{
+	"devices": [
+		{
+			"deviceName": "HIH-D-32798",
+			"instance": "37270E944602698B3C802E8EEA812F0B",
+			"instanceName": "HIH-D-32798-13140",
+			"platform": "WindowsEditor",
+			"oSVersion": "Windows 10 (22H2) [10.0.19045.6093] ",
+			"model": "Default",
+			"gPU": "NVIDIA GeForce RTX 4060 Ti",
+			"cPUModel": "13th Gen Intel(R) Core(TM) i7-13700K",
+			"rAMInGB": 64,
+			"renderMode": "SM6",
+			"rHI": "",
+			"appInstanceLog": ""
+		}
+	],
+	"reportCreatedOn": "2026.10.15-11.53.16",
+	"succeeded": 1,
+	"succeededWithWarnings": 0,
+	"failed": 0,
+	"notRun": 0,
+	"inProcess": 0,
+	"totalDuration": 0.028657600283622742,
+	"comparisonExported": false,
+	"comparisonExportDirectory": "",
+	"tests": [
+		{
+			"testDisplayName": "Smoke",
+			"fullTestPath": "VFX.MeshTool.Smoke",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"37270E944602698B3C802E8EEA812F0B"
+			],
+			"duration": 0.028657600283622742,
+			"dateTime": "2026.10.15-11.53.16",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		}
+	]
+}
